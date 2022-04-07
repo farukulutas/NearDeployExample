@@ -172,4 +172,4 @@ Please note that, in order to create the AssemblyScript and tests folder structu
 ## Transaction made with test deployment.
 Transaction Link: https://explorer.testnet.near.org/transactions/HF6xSra6WdpJQVXi2T8Qfs8RHxBptDzLeX4pseSfqAkn
 
-<img src="https://github.com/farukulutas/NearDeployExample/blob/main/near_deploy.PNG" width="250" height="250" />
+<img src="https://github.com/farukulutas/NearDeployExample/blob/main/near_deploy.PNG"/>
